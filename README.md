@@ -1,4 +1,6 @@
-In head:
+# Basics
+
+## In head:
 
 ```
 <script language="javascript" type="text/javascript">
@@ -6,7 +8,7 @@ In head:
 </script>
 ```
 
-Semicolons: are optional
+## Semicolons: are optional
 
 ```
 <script language="javascript" type="text/javascript">
@@ -17,7 +19,7 @@ Semicolons: are optional
 </script>
 ```
 
-Comments
+## Comments
 
 ```
 <script language="javascript" type="text/javascript">
@@ -34,7 +36,7 @@ Comments
 </script>
 ```
 
-External file
+## External file
 
 ```
 <head>
@@ -42,8 +44,7 @@ External file
 </head>
 ```
 
-
-HTML5 standard event
+## HTML5 standard event
 
 ```
 Attribute	Value	Description
